@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "0a785389580e953e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef28b76560e1028c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bfbc81914bddfa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f07132565e468b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a03c4a024cd1e22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3340b8fed0d5216",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cff6122b939f7112",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e124edb06de3bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a77619fc7812a856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "babbc1f5bfdc48f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e50dd416c345c5d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2089c14f7e4cf73c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a0fc942de281b26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ef28b76560e1028c",
+  "lastOpenFiles": [
+    "JAVA_DSA/Kunal's Questions/05-arrays.md",
+    "JAVA_DSA/Kunal's Questions/10-recursion.md",
+    "JAVA_DSA/Kunal's Questions/09-patterns.md",
+    "JAVA_DSA/Kunal's Questions/07-sorting.md",
+    "JAVA_DSA/Kunal's Questions/06-searching.md",
+    "JAVA_DSA/Kunal's Questions/04-functions.md",
+    "JAVA_DSA/Kunal's Questions/03-conditionals-loops.md",
+    "JAVA_DSA/Kunal's Questions/02-first-java.md",
+    "JAVA_DSA/Kunal's Questions/01-flow-of-program.md"
+  ]
+}
